@@ -1,1 +1,7 @@
-theme: jekyll-theme-hacker
+
+# Build settings
+# theme: minima
+plugins:
+  - jekyll-feed
+
+# theme: jekyll-theme-hacker
